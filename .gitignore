@@ -249,3 +249,5 @@ build
 build
 .gradle
 bin/
+
+application-aws.properties
